@@ -4,6 +4,7 @@ It uses [fb-flo](https://facebook.github.io/fb-flo/) to watch your Assets files,
 
 It uses _Gulp_ to run the built process, and thus is much faster than the PHP version. I created this set of tool because it's easier than modifying an existing Application to use new technologies.
 
+![demo](assets/demo.gif)
 
 ## Installation
 
