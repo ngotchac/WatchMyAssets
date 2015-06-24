@@ -1,0 +1,13 @@
+{
+    "env": {
+        "node": true
+    },
+    "rules": {
+        "quotes": [2, "single"],
+        "strict": 0,
+        "curly": [3, "multi-line"],
+        "no-use-before-define": [2, "nofunc"],
+        "no-underscore-dangle": 0
+    }
+}
+
